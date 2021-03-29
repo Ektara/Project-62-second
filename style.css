@@ -1,0 +1,72 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+#icon {
+    width: 68px;
+    height: 68px;
+}
+
+#img1 {
+    width: 400px;
+    height: 320px;
+    border: solid;
+    border-color: white;
+    border-bottom-width: thick;
+    border-top-width: thick;
+    border-left-width: thick;
+    border-right-width: thick;
+}
+
+#img2 {
+    width: 400px;
+    height: 320px;
+    border: solid;
+    border-color: white;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-left-width: thick;
+    border-right-width: thick;
+
+}
+
+#img3 {
+    width: 400px;
+    height: 320px;
+    border: solid;
+    border-color: white;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-left-width: thick;
+    border-right-width: thick;
+}
+
+#img4 {
+    width: 400px;
+    height:320px;
+    border: solid;
+    border-color: white;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-left-width: thick;
+    border-right-width: thick;
+}
+.container
+{
+    text-align: center;
+}
+
+#MyCarousel {
+    background-color:lightpink;
+    padding:50px;
+}
+#MyCarousel img {
+  height:300px;
+}
+.carousel-inner p {
+    color:purple;
+    font-size:24px;
+    margin-bottom:15px;
+    margin-top:15px;   
+}
